@@ -20,4 +20,4 @@ main.jsx: provider is used in  to provide store to all components
 
 
 ********** CLASS 4 **********
-
+redux: advanced redux concepts for production ready code
