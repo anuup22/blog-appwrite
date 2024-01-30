@@ -21,3 +21,11 @@ main.jsx: provider is used in  to provide store to all components
 
 ********** CLASS 4 **********
 redux: advanced redux concepts for production ready code
+
+********** CLASS 5 **********
+login: login page
+PostLogin: post login page
+select: select page
+signup: signup page
+authLayout: layout for login and signup page
+react forms component using react-hook-form
